@@ -15,7 +15,7 @@ Install the required dependencies
 Set up Neo4j and Redis on your local machine.
 Update app.py with your Neo4j and Redis connection details.
 
-Usage:
+##Usage:
 
 Run the Flask application:
 python app.py
@@ -24,7 +24,7 @@ Open your web browser and go to http://localhost:5000/.
 Enter the start and end stations in the provided form and submit.
 The application will find the route between the specified stations and display it.
 
-Features
+##Features
 
 Finds the shortest route between two public transportation stations.
 Utilizes Neo4j for storing station data and relationships between stations.
