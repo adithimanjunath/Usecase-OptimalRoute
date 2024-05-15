@@ -7,6 +7,7 @@ This project utilizes Flask, Neo4j, Redis, and an external API to provide a opti
 - Python 3.x
 - Flask
 - Neo4j
+- APOC modlues in Neo4j
 - Redis
 - Haversine
 - Requests
